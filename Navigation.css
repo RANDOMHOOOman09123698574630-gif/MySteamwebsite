@@ -1,0 +1,35 @@
+
+ul{
+list-style-type:none;
+margin:200;
+padding:200;
+overflow:hidden;
+background-color:rgba(83, 252, 255, 0.57);
+border: 5px solid #000000;
+    font-size:18pt;
+}
+body{background-image:url("Purifing.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: "Times new roman";
+}
+p{font-size:xx-large}
+li{
+float: left;
+border-bottom-color:#FFFFFF;
+}
+li a{display:block;
+padding: 14px 16px;
+color:rgb(0, 0, 0);
+text-decoration:none;
+}
+li a:hover{color:#2200ff;
+}
+img{
+    margin-left: 250px;
+    }
+p {text-align: center;}
+/*a:link{color:#DD00FF}
+a:visited{color:#DD00FF}
+.active{color:#FF0000}
